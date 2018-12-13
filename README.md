@@ -1,6 +1,8 @@
 java-8-lambdas-exercises
 ========================
 
+### java 8函数式编程的随书练习与源码
+
 This git repository contains support material for the [Java 8 Lambdas](http://tinyurl.com/java8lambdas) book.
 
 Project Structure
